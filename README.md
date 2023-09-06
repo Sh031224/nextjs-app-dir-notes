@@ -17,6 +17,12 @@ This is a repository that collects cautions that are good to read before using t
 [See More](https://github.com/vercel/next.js/issues/49243)
 </details>
 
+<details>
+    <summary>Once notFound is processed, the not found screen continues to appear even when the query is changed.</summary>
+
+[CodeSandbox](https://codesandbox.io/p/sandbox/twilight-tdd-4gtyt4)
+</details>
+
 
 
 

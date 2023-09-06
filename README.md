@@ -1,6 +1,9 @@
-# nextjs-app-dir-notes
+# Nextjs-app-dir-notes
 
 This is a repository that collects cautions that are good to read before using the app directory of next.js.
+
+It was created with the purpose of helping those who want to use the Next.js app directory,
+and we would appreciate it if you could share your various trials and errors through [contributions](/CONTRIBUTING.md)!
 
 
 # Categories

@@ -44,7 +44,7 @@ export default function Foo() {
 
 ```tsx
 // bar/page.tsx
-export default function Foo() {
+export default function Bar() {
   return <Link href="/foo">Go to foo</Link>
 }
 ```

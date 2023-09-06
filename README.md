@@ -5,8 +5,8 @@ This is a repository that collects cautions that are good to read before using t
 
 # Categories
 
-- [Routes](#-routes)
-- [Runtime](#-runtime)
+- [Routes](#routes)
+- [Runtime](#runtime)
 
 
 ## Routes
